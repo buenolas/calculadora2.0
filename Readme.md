@@ -1,0 +1,1 @@
+Este projeto é uma calculadora simples totalmente funcional em forma de looping, um aprimoramento de um projeto anterior.
